@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dbaskaranMCA/poforaeries/precache-manifest.e177473ff91f8c8cee677e618faf904a.js"
+  "/poforaeries/precache-manifest.a94358e84491d4208d9d5786a2971927.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dbaskaranMCA/poforaeries/index.html", {
+workbox.routing.registerNavigationRoute("/poforaeries/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

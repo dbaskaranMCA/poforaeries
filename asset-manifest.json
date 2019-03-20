@@ -1,14 +1,14 @@
 {
-  "main.css": "/dbaskaranMCA/poforaeries/static/css/main.ff4ba2d9.chunk.css",
-  "main.js": "/dbaskaranMCA/poforaeries/static/js/main.161ead56.chunk.js",
-  "main.js.map": "/dbaskaranMCA/poforaeries/static/js/main.161ead56.chunk.js.map",
-  "runtime~main.js": "/dbaskaranMCA/poforaeries/static/js/runtime~main.c9359e4d.js",
-  "runtime~main.js.map": "/dbaskaranMCA/poforaeries/static/js/runtime~main.c9359e4d.js.map",
-  "static/js/2.7108bfe2.chunk.js": "/dbaskaranMCA/poforaeries/static/js/2.7108bfe2.chunk.js",
-  "static/js/2.7108bfe2.chunk.js.map": "/dbaskaranMCA/poforaeries/static/js/2.7108bfe2.chunk.js.map",
-  "index.html": "/dbaskaranMCA/poforaeries/index.html",
-  "precache-manifest.e177473ff91f8c8cee677e618faf904a.js": "/dbaskaranMCA/poforaeries/precache-manifest.e177473ff91f8c8cee677e618faf904a.js",
-  "service-worker.js": "/dbaskaranMCA/poforaeries/service-worker.js",
-  "static/css/main.ff4ba2d9.chunk.css.map": "/dbaskaranMCA/poforaeries/static/css/main.ff4ba2d9.chunk.css.map",
-  "static/media/logo.svg": "/dbaskaranMCA/poforaeries/static/media/logo.5d5d9eef.svg"
+  "main.css": "/poforaeries/static/css/main.ff4ba2d9.chunk.css",
+  "main.js": "/poforaeries/static/js/main.184246e8.chunk.js",
+  "main.js.map": "/poforaeries/static/js/main.184246e8.chunk.js.map",
+  "runtime~main.js": "/poforaeries/static/js/runtime~main.138b7828.js",
+  "runtime~main.js.map": "/poforaeries/static/js/runtime~main.138b7828.js.map",
+  "static/js/2.7108bfe2.chunk.js": "/poforaeries/static/js/2.7108bfe2.chunk.js",
+  "static/js/2.7108bfe2.chunk.js.map": "/poforaeries/static/js/2.7108bfe2.chunk.js.map",
+  "index.html": "/poforaeries/index.html",
+  "precache-manifest.a94358e84491d4208d9d5786a2971927.js": "/poforaeries/precache-manifest.a94358e84491d4208d9d5786a2971927.js",
+  "service-worker.js": "/poforaeries/service-worker.js",
+  "static/css/main.ff4ba2d9.chunk.css.map": "/poforaeries/static/css/main.ff4ba2d9.chunk.css.map",
+  "static/media/logo.svg": "/poforaeries/static/media/logo.5d5d9eef.svg"
 }

@@ -1,14 +1,16 @@
 {
-  "main.css": "/poforaeries/static/css/main.ff4ba2d9.chunk.css",
-  "main.js": "/poforaeries/static/js/main.184246e8.chunk.js",
-  "main.js.map": "/poforaeries/static/js/main.184246e8.chunk.js.map",
+  "main.css": "/poforaeries/static/css/main.39cc1fc6.chunk.css",
+  "main.js": "/poforaeries/static/js/main.816a14ba.chunk.js",
+  "main.js.map": "/poforaeries/static/js/main.816a14ba.chunk.js.map",
   "runtime~main.js": "/poforaeries/static/js/runtime~main.138b7828.js",
   "runtime~main.js.map": "/poforaeries/static/js/runtime~main.138b7828.js.map",
-  "static/js/2.7108bfe2.chunk.js": "/poforaeries/static/js/2.7108bfe2.chunk.js",
-  "static/js/2.7108bfe2.chunk.js.map": "/poforaeries/static/js/2.7108bfe2.chunk.js.map",
+  "static/css/2.7762983b.chunk.css": "/poforaeries/static/css/2.7762983b.chunk.css",
+  "static/js/2.3f10de1e.chunk.js": "/poforaeries/static/js/2.3f10de1e.chunk.js",
+  "static/js/2.3f10de1e.chunk.js.map": "/poforaeries/static/js/2.3f10de1e.chunk.js.map",
   "index.html": "/poforaeries/index.html",
-  "precache-manifest.a94358e84491d4208d9d5786a2971927.js": "/poforaeries/precache-manifest.a94358e84491d4208d9d5786a2971927.js",
+  "precache-manifest.d9a2bcfff18bc190749fe1b14596c574.js": "/poforaeries/precache-manifest.d9a2bcfff18bc190749fe1b14596c574.js",
   "service-worker.js": "/poforaeries/service-worker.js",
-  "static/css/main.ff4ba2d9.chunk.css.map": "/poforaeries/static/css/main.ff4ba2d9.chunk.css.map",
+  "static/css/2.7762983b.chunk.css.map": "/poforaeries/static/css/2.7762983b.chunk.css.map",
+  "static/css/main.39cc1fc6.chunk.css.map": "/poforaeries/static/css/main.39cc1fc6.chunk.css.map",
   "static/media/logo.svg": "/poforaeries/static/media/logo.5d5d9eef.svg"
 }

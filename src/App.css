@@ -23,6 +23,35 @@
   color: #61dafb;
 }
 
+.card-shadow{
+    background-color: #fff;
+    box-shadow: 0px 2px 4px #efefef;
+    border: 0px solid #fff;
+}
+
+.mt-10{
+  margin-top:10px;
+}
+
+.blue{
+  background-color: #007bff;
+  color:#fff;
+}
+table.dataTable.no-footer{
+  border: 1px solid #d9d9da;
+    border-radius: 4px
+}
+thead tr{
+  background-color: #007bff;
+  color:#fff;
+}
+
+table.dataTable thead th, table.dataTable thead td{
+  border-bottom: 0px solid #111111 !important; 
+}
+table.dataTable.no-footer {
+  border-bottom: 1px solid #d9d9da !important;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
